@@ -35,7 +35,7 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="/assets/dark.svg"/>
+  ![snake eating my contributions](assets/dark.svg)
   <br/>
 </div>
 
