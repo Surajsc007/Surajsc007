@@ -35,7 +35,9 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="/assets/light.svg" width="55%"/>
+  <div style="background-color: #f0f0f0; padding: 20px;">
+  <img alt="snake eating my contributions" src="/assets/light.svg"/>
+  </div>
   
   <br/><br/><br/>
 </div>
