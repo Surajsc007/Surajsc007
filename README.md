@@ -39,6 +39,7 @@
   <br/>
 </div>
 
+
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -50,4 +51,4 @@
   <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=surajsc007&theme=highcontrast" alt="surajsc007" />
 </p>
 <hr/>
-</body>
+
