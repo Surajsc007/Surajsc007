@@ -35,10 +35,9 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  ![snake eating my contributions](assets/dark.svg)
+  <img alt="snake eating my contributions" src="/assets/dark.svg"/>
   <br/>
 </div>
-
 
 <hr/>
 
@@ -51,4 +50,3 @@
   <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=surajsc007&theme=highcontrast" alt="surajsc007" />
 </p>
 <hr/>
-
