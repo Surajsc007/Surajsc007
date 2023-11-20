@@ -35,11 +35,8 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <div style="background-color: #f0f0f0; padding: 20px;">
-  <img alt="snake eating my contributions" src="/assets/light.svg"/>
-  </div>
-  
-  <br/><br/><br/>
+  <img  style="background-color: #f0f0f0; padding: 20px; alt="snake eating my contributions" src="/assets/light.svg"/>
+  <br/>
 </div>
 
 <hr/>
