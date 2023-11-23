@@ -16,7 +16,7 @@
   <a href="https://linkedin.com/in/suraj-chauhan-b7878a218" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://www.instagram.com/mr.s____c" target="_blank">
      <img src="https://img.shields.io/badge/Instagram-FF5722?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
 </div>
