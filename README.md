@@ -20,7 +20,7 @@
      <img src="https://img.shields.io/badge/Instagram-FF5722?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
   <a href="https://suraj-chauhan-public-portfolio.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-76D04B?style=for-the-badge&logo=codeium&logoColor=white" target="_blank" />
+     <img src="https://img.shields.io/badge/Portfolio-339933?style=for-the-badge&logo=codeium&logoColor=white" target="_blank" />
   </a>
 </div>
 
