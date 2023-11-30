@@ -16,8 +16,11 @@
   <a href="https://linkedin.com/in/suraj-chauhan-b7878a218" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://www.instagram.com/mr.s____c" target="_blank">
      <img src="https://img.shields.io/badge/Instagram-FF5722?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://suraj-chauhan-public-portfolio.vercel.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-339933?style=for-the-badge&logo=codeium&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -26,8 +29,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,python,cpp,javascript,nodejs,bootstrap,html,css,vscode,github,git"/>
-    <img src="https://skillicons.dev/icons?i=tailwind,express,qt,postman,mongodb,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,python,cpp,javascript,nodejs,bootstrap,html,css,vscode"/>
+    <img src="https://skillicons.dev/icons?i=github,git,tailwind,express,qt,postman,mongodb,mysql,flask" /><br>
 </div>
 
 <br/>
@@ -35,9 +38,8 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="/snake.svg" width="55%"/>
-  
-  <br/><br/><br/>
+  <img alt="snake eating my contributions" src="/assets/dark.svg"/>
+  <br/>
 </div>
 
 <hr/>
@@ -51,4 +53,3 @@
   <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=surajsc007&theme=highcontrast" alt="surajsc007" />
 </p>
 <hr/>
-</body>
