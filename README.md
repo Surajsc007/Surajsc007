@@ -1,5 +1,7 @@
 <p align="right"> <img  src="https://komarev.com/ghpvc/?username=surajsc007&label=Visitors&color=fb8c00&style=flat" width="100"alt="surajsc007" /> </p>
 
+<p align="left"> <img  src="https://suraj-chauhan-public-portfolio.vercel.app/?username=surajsc007&label=Portfolio&color=006FFB&style=flat" width="100"alt="surajsc007" /> </p>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=45&duration=4000&pause=1000&color=FB8C00&center=true&vCenter=true&random=false&width=700&height=70&lines=Hi+There+%F0%9F%91%8B+I'm+Suraj+Chauhan" alt="Typing SVG" /></a>
 </h1>
